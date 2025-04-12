@@ -45,10 +45,3 @@ To contribute or use this project locally, follow these steps:
 4. Make modifications or improvements to the code.
 5. Compile and test your changes.
 
-## Demo
-
-You can find a demo of the Java File Hider in action [here](demo_video_link).
-
-## Contributing
-
-Contributions to this project are welcome! If you have suggestions for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request.
