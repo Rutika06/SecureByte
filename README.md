@@ -1,4 +1,4 @@
-# Java File Hider - Console Based Project
+# SecureByte
 
 ![File Hider](file_hider_image.jpg)
 
